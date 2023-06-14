@@ -12,20 +12,20 @@ This is a simple BMI (Body Mass Index) calculator web application. It allows use
 # BMI Categories
 The calculated BMI will fall into one of the following categories:
 
-Underweight: BMI <= 18.4
-Normal: 18.5 <= BMI <= 24.9
-Overweight: 25 <= BMI <= 29.9
-Obese: BMI >= 30
+    Underweight: BMI <= 18.4
+    Normal: 18.5 <= BMI <= 24.9
+    Overweight: 25 <= BMI <= 29.9
+    Obese: BMI >= 30
 
 # Example
 Here's an example of how the BMI calculator works:
 
-Weight: 65 KG
-Height: 170 CM
-Calculating BMI:
-BMI = Weight (KG) / Height (M)^2
-BMI = 65 / (1.7)^2
-BMI ≈ 22.49
+    Weight: 65 KG
+    Height: 170 CM
+    Calculating BMI:
+    BMI = Weight (KG) / Height (M)^2
+    BMI = 65 / (1.7)^2
+    BMI ≈ 22.49
 
-BMI falls into the "Normal" category.
+    BMI falls into the "Normal" category.
 
