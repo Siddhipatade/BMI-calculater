@@ -1,13 +1,13 @@
 # BMI Calculator
 
-This is a simple BMI (Body Mass Index) calculator web application. It allows users to enter their weight and height, and it calculates their BMI based on the input. The application then displays the corresponding BMI result, indicating whether the person is underweight, normal, overweight, or obese.
+This is a simple BMI (Body Mass Index) calculator web application. It allows users to enter their weight and height and calculates their BMI based on the input. The application then displays the corresponding BMI result, indicating whether the person is underweight, normal, overweight, or obese.
 
 ## Usage
 
-1. Enter your weight in kilograms (KG) in the designated input field.
+1. Enter your kilograms (KG) weight in the designated input field.
 2. Enter your height in centimeters (CM) in the designated input field.
 3. Click the "Calculate BMI" button to calculate your BMI.
-4. The BMI result will be displayed below the button, indicating whether you are underweight, normal, overweight, or obese.
+4. The BMI results below the button will indicate whether you are underweight, normal, overweight, or obese.
 
 # BMI Categories
 The calculated BMI will fall into one of the following categories:
