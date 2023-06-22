@@ -1,16 +1,26 @@
 body {
     background-color: #eee;
     text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 
 button {
-    background-color: rgba(0, 0, 0, 0);
+    background: linear-gradient(to right, rgba(70, 79, 254, 0.513), rgb(26, 221, 255));
     outline: none;
+    padding : 10px;
+    font-weight: bolder;
+    font-size: 1.0em;
+
 }
 
 h2 {
     margin-bottom: 10px;
 }
+
+p{
+    font-weight: bolder;
+}  
 
 .btn {
     margin-bottom: 10px;
@@ -24,23 +34,46 @@ input {
     padding: 5px 14px;
     border: 2px solid #201f1d;
     margin-bottom: 10px;
-    background-color: rgba(0,0,0,.4);
+    background-color: rgba(255, 255, 255, 0.243);
     outline: none;
-    color: #fff;
+    color: #000000;
     font-size: 14px;
 }
 
 input:focus {
     border: 2px solid rgba(0,0,0,.4);
-    background-color: rgb(142, 142, 142);
+    background-color: rgb(255, 255, 255);
 }
 
 form {
-    background-color: #fff;
     padding: 20px;
     color: #000;
     box-shadow: 0 2px 4px 0 rgba(0,0,0,.4);
+    background: linear-gradient(to right, rgba(70, 79, 254, 0.513), rgb(26, 221, 255));
 }
+
+.results-underweight {
+    color: blue; /* Font color for underweight category */
+    font-weight: bolder;
+
+
+}
+
+.results-normal {
+    color: green; /* Font color for normal category */
+    font-weight: bolder;
+}
+
+.results-overweight {
+    color: orange; /* Font color for overweight category */
+    font-weight: bolder;
+}
+
+.results-obese {
+    color: red; /* Font color for obese category */
+    font-weight: bolder;
+}
+
 
 form p {
     margin-bottom: 5px;
