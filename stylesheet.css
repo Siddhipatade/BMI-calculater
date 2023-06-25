@@ -14,7 +14,7 @@ button,
     border-width: 0;
     box-shadow: rgba(45, 35, 66, 0.2) 0 2px 4px, rgba(45, 35, 66, 0.15) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
     box-sizing: border-box;
-    color: #36395A;
+    color: #1d1f34;
     cursor: pointer;
     display: inline-flex;
     font-family: "JetBrains Mono", monospace;
@@ -80,7 +80,7 @@ input {
     margin-bottom: 10px;
     background-color: rgba(255, 255, 255, 0.243);
     outline: none;
-    color: #000000;
+    color: #1d1f34;
     font-size: 14px;
     border-radius: 5px;
 }
@@ -94,7 +94,7 @@ input:focus {
 form {
     padding: 20px;
     border-radius: 10px;
-    color: #000;
+    color: #1d1f34;
     box-shadow: 0 2px 4px 0 rgba(0,0,0,.4);
     background: linear-gradient(to right, rgba(255, 255, 255, 0.513), rgb(130, 208, 222));
 }
@@ -117,7 +117,7 @@ form {
 
 
 .results-normal {
-    color: green; /* Font color for normal category */
+    color: rgb(1, 93, 1); /* Font color for normal category */
     font-weight: bolder;
     background-color: #fffefe;
     border-radius: 5px;
@@ -134,7 +134,7 @@ form {
 
 
 .results-overweight {
-    color: rgb(232, 151, 0); /* Font color for overweight category */
+    color: rgb(208, 136, 2); /* Font color for overweight category */
     font-weight: bolder;
     background-color: #ffffff;
     border-radius: 5px;
