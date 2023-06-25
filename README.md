@@ -29,5 +29,5 @@ Here's an example of how the BMI calculator works:
 
     BMI falls into the "Normal" category.
 
-![image](https://github.com/Siddhipatade/BMI-calculater/assets/91780318/d20e0960-e1ba-47c3-8511-53568246f1e5)
+![image](https://github.com/Siddhipatade/BMI-calculater/assets/91780318/a566ee38-3014-46a3-8b8e-a70fd5814dcf)
 
